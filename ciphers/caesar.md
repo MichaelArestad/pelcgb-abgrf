@@ -25,7 +25,7 @@ Break down the frequency of letters used in a message. Then match them up with t
 #### English letter frequencies
 
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
--|
+--|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|--
 73 | 9 | 30 | 44 | 130 | 28 | 16 | 35 | 74 | 2 | 3 | 35 | 25 | 78 | 74 | 27 | 3 | 77 | 63 | 93 | 27 | 13 | 16 | 5 | 19 | 1
 
 #### The Chi-square statistic
